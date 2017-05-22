@@ -1,0 +1,186 @@
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\ApplicationInsights.config
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\csc.exe
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\csc.exe.config
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\csc.rsp
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\csi.exe
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\csi.rsp
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\System.AppContext.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\System.Collections.Immutable.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\System.IO.FileSystem.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\System.Reflection.Metadata.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\vbc.exe
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\vbc.exe.config
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\vbc.rsp
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\VBCSCompiler.exe
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\roslyn\VBCSCompiler.exe.config
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Movies.dll.config
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Movies.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Movies.pdb
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Antlr3.Runtime.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Kendo.Mvc.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.AI.Agent.Intercept.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.AI.DependencyCollector.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.AI.Web.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.AI.WindowsServer.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.ApplicationInsights.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.Web.Infrastructure.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Movies.Data.Entities.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Newtonsoft.Json.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.Helpers.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.Mvc.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.Optimization.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.Razor.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.WebPages.Deployment.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.WebPages.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.WebPages.Razor.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\WebGrease.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Movies.Data.Entities.pdb
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Kendo.Mvc.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.Helpers.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.Mvc.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.Optimization.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.Razor.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.WebPages.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.WebPages.Deployment.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\System.Web.WebPages.Razor.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Antlr3.Runtime.pdb
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Newtonsoft.Json.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.ApplicationInsights.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.AI.DependencyCollector.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.AI.WindowsServer.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\Microsoft.AI.Web.xml
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\cs-CZ\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\da-DK\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\de-DE\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\es-ES\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\fr-CA\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\he-IL\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\it-IT\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\ro-RO\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\sk-SK\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\tr-TR\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+C:\6- Study\DotNet\Excercise\Movies\Movies\obj\Debug\Movies.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies\obj\Debug\Movies.pdb
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\ApplicationInsights.config
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\csc.exe
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\csc.exe.config
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\csc.rsp
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\csi.exe
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\csi.rsp
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\System.AppContext.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\vbc.exe
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\vbc.exe.config
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\vbc.rsp
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Movies.dll.config
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Movies.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Movies.pdb
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Antlr3.Runtime.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\EntityFramework.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Kendo.Mvc.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.AI.Web.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Movies.Data.Entities.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Newtonsoft.Json.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.Helpers.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.Mvc.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.Optimization.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.Razor.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.WebPages.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\WebGrease.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Movies.Data.Entities.pdb
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\EntityFramework.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Kendo.Mvc.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.Helpers.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.Mvc.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.Optimization.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.Razor.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.WebPages.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Antlr3.Runtime.pdb
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Newtonsoft.Json.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\Microsoft.AI.Web.xml
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\bg-BG\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\cs-CZ\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\da-DK\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\de-DE\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\es-ES\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\fr-CA\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\fr-FR\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\he-IL\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\it-IT\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\nl-NL\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\pl-PL\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\pt-BR\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\pt-PT\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\ro-RO\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\ru-RU\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\sk-SK\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\sv-SE\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\tr-TR\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\uk-UA\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\bin\zh-CN\Kendo.Mvc.resources.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Downloads\Movies\Movies\Movies\obj\Debug\Movies.dll
+C:\Users\Dell\Downloads\Movies\Movies\Movies\obj\Debug\Movies.pdb

@@ -1,0 +1,4 @@
+C:\6- Study\DotNet\Excercise\Movies\Movies.Data.Entities\bin\Debug\Movies.Data.Entities.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies.Data.Entities\bin\Debug\Movies.Data.Entities.pdb
+C:\6- Study\DotNet\Excercise\Movies\Movies.Data.Entities\obj\Debug\Movies.Data.Entities.dll
+C:\6- Study\DotNet\Excercise\Movies\Movies.Data.Entities\obj\Debug\Movies.Data.Entities.pdb

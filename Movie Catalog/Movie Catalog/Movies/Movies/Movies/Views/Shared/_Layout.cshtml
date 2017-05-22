@@ -1,0 +1,25 @@
+﻿
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/kendo")
+
+    @Scripts.Render("~/bundles/bootstrap")
+    @Styles.Render("~/Content/css")
+    @Styles.Render("~/Content/kendo/css")
+    <title></title>
+</head>
+<body class="panel-body">
+    <div class="table-bordered" style="background-color:#5190ED; padding-left:10px; color:white; font-size:12px; font-family:'Comic Sans MS'; font-weight:bold">
+        <h4> Welcome to Movies Catalog </h4>
+    </div>
+    
+    <div id="mainDiv">
+    @RenderBody()
+    </div>
+</body>
+</html>

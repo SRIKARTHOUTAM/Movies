@@ -1,0 +1,58 @@
+﻿@model Movies.Data.Entities.MoviesClass
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <div>
+        <h4>MoviesClass</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.MovieName)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.MovieName)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.MovieGenere)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.MovieGenere)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.MovieReleaseYear)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.MovieReleaseYear)
+            </dd>
+    
+            <dt>
+                @Html.DisplayNameFor(model => model.MovieCollectionAmount)
+            </dt>
+    
+            <dd>
+                @Html.DisplayFor(model => model.MovieCollectionAmount)
+            </dd>
+    
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+</body>
+</html>

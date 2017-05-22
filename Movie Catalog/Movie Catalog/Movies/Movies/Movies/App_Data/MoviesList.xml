@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Movies>
+  <Movie>
+    <Id>1</Id>
+    <MovieName>Inception</MovieName>
+    <MovieGener>Science and Fiction</MovieGener>
+    <MovieReleaseYear>1987</MovieReleaseYear>
+    <MovieCollectionAmount>55</MovieCollectionAmount>
+  </Movie>
+  <Movie>
+    <Id>2</Id>
+    <MovieName>Fast and Furious</MovieName>
+    <MovieGener>Action</MovieGener>
+    <MovieReleaseYear>3324</MovieReleaseYear>
+    <MovieCollectionAmount>4389</MovieCollectionAmount>
+  </Movie>
+  <Movie>
+    <Id>3</Id>
+    <MovieName>Gravity</MovieName>
+    <MovieGener>Science and Fiction</MovieGener>
+    <MovieReleaseYear>1900</MovieReleaseYear>
+    <MovieCollectionAmount>3488</MovieCollectionAmount>
+  </Movie>
+  <Movie>
+    <Id>7</Id>
+    <MovieName>Logan</MovieName>
+    <MovieGener>Action</MovieGener>
+    <MovieReleaseYear>1111</MovieReleaseYear>
+    <MovieCollectionAmount>4343</MovieCollectionAmount>
+  </Movie>
+  <Movie>
+    <Id>8</Id>
+    <MovieName>Scary</MovieName>
+    <MovieGener>comedy</MovieGener>
+    <MovieReleaseYear>5675</MovieReleaseYear>
+    <MovieCollectionAmount>4555</MovieCollectionAmount>
+  </Movie>
+  <Movie>
+    <Id>9</Id>
+    <MovieName>sandeep</MovieName>
+    <MovieGener />
+    <MovieReleaseYear>0</MovieReleaseYear>
+    <MovieCollectionAmount>0</MovieCollectionAmount>
+  </Movie>
+</Movies>
